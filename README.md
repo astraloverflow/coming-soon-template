@@ -8,8 +8,6 @@
 
 Works well with GitHub Pages, Vercel (formerly Zeit), Netlify, or any service where you can host static html files.
 
-Note about Vercel: You may need to set the build command to something like `echo "Doing Nothing"`, since there is no build step.
-
 [license-img]: https://img.shields.io/github/license/astraloverflow/coming-soon-template.svg
 [last-commit-img]: https://img.shields.io/github/last-commit/astraloverflow/coming-soon-template.svg
 [issues-img]: https://img.shields.io/github/issues-raw/astraloverflow/coming-soon-template.svg
